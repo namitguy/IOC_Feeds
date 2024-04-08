@@ -1,4 +1,6 @@
 https://iplists.firehol.org/files/firehol_level1.netset
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 http://www.talosintelligence.com/documents/ip-blacklist
-http://ec2-13-245-95-20.af-south-1.compute.amazonaws.com:41412/security/blocklist
+https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt
+http://ec2-13-245-95-20.af-south-1.compute.amazonaws.com:41412/security/blocklist (inactive)
+
